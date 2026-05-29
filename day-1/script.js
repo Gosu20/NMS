@@ -71,3 +71,8 @@
 // }
 // let a="applebananamangoappleapple"
 // console.log(a.replace(/apple/g,"orange"))
+let i=10
+while(i<=20){
+    console.log(i)
+    i++
+}
